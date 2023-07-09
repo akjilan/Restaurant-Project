@@ -1,0 +1,105 @@
+*{
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.my-nav{
+	height: 126px;
+	border-bottom: 1px solid #dddddd;
+}
+
+.banner{
+	height: 407px;
+	border-bottom: 1px solid #dddddd;
+}
+
+.banner h2{
+	padding-top: 100px;
+}
+
+.banner p{
+	font-size: 16px;
+}
+
+.banner button{
+	width: 140px;
+
+}
+.latest{
+	
+	margin-top: 16px;
+	margin-bottom: 16px;
+	margin-left: 0;
+	padding-left: 15px;
+
+}
+.cards{
+	padding-right: 10px;
+	float: left;
+	margin-left: 0;
+	padding-left: 0;
+margin-right: 0;
+}
+.long{
+	height: 483px;
+
+}
+.mid1{
+	height: 485px;
+	float: left;
+
+}
+.mid2{
+	height: 485px;
+
+
+}
+.mid1 h3{
+padding-top: 55px;
+
+	height: 122px;
+
+}
+.mid2 h3{
+padding-top: 55px;
+
+	height: 122px;
+
+}
+.text{
+	color: black;
+}
+
+.text1{
+	
+	height: 100px;
+
+}
+.part2{
+	margin-top: 50px;
+}
+
+.icon1{
+	margin-right: 10px;
+	margin-left: 15px;
+}
+.icon2{
+	margin-right: 10px;
+}
+
+.footer{
+
+	height: 55px;
+	border-bottom: 1px solid #dddddd;
+}
+.foot p span{
+	color: red;
+}
+.text1 p span{
+	 color: #666666;
+}
+.foot1{
+
+	position: relative;
+	bottom: 10px;
+	right: 25px;
+}

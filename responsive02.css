@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px){
+	.navbar-toggler{
+		position: relative;
+		top:12px; 
+	}
+}
+
+@media screen and ( min-width: 769px && max-width: 992px){
+.navbar-toggler{
+		position: relative;
+		top:12px; 
+	}
+	button:hover,nav
+
+
+}
